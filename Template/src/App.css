@@ -1,0 +1,87 @@
+
+*{
+  padding-top: 20px;
+}
+.u-body{
+  background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/45250ed076295c36bae1dbdd/Untitled1min.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  font-family: 'Open Sans',sans-serif;
+}
+.text-body{
+  margin: 0;
+  padding-left: 100px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  justify-content: center;
+}
+.text-body h3 {
+  text-transform: uppercase;
+  letter-spacing: 25px;
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin: 0;
+  color: #ffffff;
+}
+.text-body h1 {
+  text-transform: none;
+  font-size: 7.5rem;
+  font-family: 120px Julee;
+  line-height: 1;
+  font-weight: 400;
+  margin: 0;
+  word-wrap: break-word;
+  color: #ffca00;
+  position: relative;
+}
+.text-body h2{
+  font-style: italic;
+  font-family: Julee ;
+  padding: 20px;
+  box-sizing: border-box;
+  font-size: 3rem;
+  font-weight: 400;
+  color: white;
+}
+.text-body a{
+  background-image: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 700;
+  margin: 33px auto 0 0;
+  padding: 10px 30px;
+  background-color: #555c66;
+  color: white;
+  font-size: 20px;
+  border-width: 0;
+  border-radius: 50px;
+  border-style: solid;
+  text-decoration: none;
+}
+ .text-body a:hover{
+  background: #ffca00;;
+  transition: .5s;
+  color: black;
+}
+.footer{
+  background-image: none;
+  color: #ffffff;
+  background-color: #333333;
+  text-align: center;
+  position: relative;
+  display: block;
+  height: 200px;
+  margin-top: 10rem;
+}
+.link a{
+  color:  #d3d990;
+}
+.link a:hover{
+  text-decoration: none;
+}
+

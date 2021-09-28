@@ -1,0 +1,27 @@
+.card-group{
+  box-sizing: border-box;
+  padding-left:140px;
+  padding-right: 160px;
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+.card-title{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    font-size: 1.25rem;
+    color: #db545a;
+    font-weight: 400;
+    margin-top: 20px;
+    font-family: Roboto,sans-serif;
+    text-align: left;
+    box-sizing: border-box;
+  }
+   
