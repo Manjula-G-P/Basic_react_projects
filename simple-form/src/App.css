@@ -1,0 +1,15 @@
+.Container{
+    background: linear-gradient(#daacec,#94c997);
+    height: 700px;
+}
+
+.text{
+    padding-top: 100px;
+}
+.text h1{
+    color:dodgerblue
+}
+.text p{
+    color: #fff;
+    margin-top: 0.5rem;
+}

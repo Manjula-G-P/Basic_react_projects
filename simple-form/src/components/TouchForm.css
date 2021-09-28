@@ -1,0 +1,42 @@
+
+.container{
+    height:450px;
+    width:350px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 22px;
+    background-color: linen;
+}
+.info{
+
+    padding-top: 1rem;
+}
+.info label{
+    margin-bottom: 0;
+    padding-right: 150px;
+}
+.info select{
+    margin-right: 2px;
+    font-size: 15px;
+}
+.number{
+    font-size: 13px;
+}
+.message{
+    font-size: 20px;
+}
+.button{
+    margin-top: 1rem;
+    color: #fff;
+    padding: 0 2rem 0 2rem;
+    background-color: blue;
+    font-weight: bolder;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 10rem;
+}
+.button:hover{
+    color:blue;
+    background-color: #fff;
+}

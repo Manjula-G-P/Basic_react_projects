@@ -1,0 +1,26 @@
+.shadow-box-example {
+    height: 150px;
+    width: 100%;
+    background-color: #cbe7ff;
+    text-align: center;
+  }
+  .App h1{
+    padding: 20px;
+    margin:0;
+    text-shadow: 1px;
+    font-size: 100px;
+    font-family: 'Patrick Hand SC', cursive;
+    color: brown;
+  }
+  .App input{
+    margin: 1rem 0 2.5rem 0;
+    width:250px;
+    height:60px;
+    background-color:white;
+    border: solid black;
+    border-radius: 20px;
+    padding-left:20px;
+    outline:black;
+    font-weight:bold;
+    font-size:18px;
+  }
