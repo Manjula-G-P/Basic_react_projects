@@ -1,0 +1,13 @@
+.header{
+    padding: 20px;
+    padding-top: 100px;
+    
+}
+.header h1{
+    color: solid black;
+    font-size: 50px;
+}
+.search_bar{
+    margin-left: 500px;
+    font-size: 80px;
+}   

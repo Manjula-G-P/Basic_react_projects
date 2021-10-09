@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.repos h1{
+    padding-left:230px ;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+
+}

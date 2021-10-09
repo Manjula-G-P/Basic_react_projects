@@ -1,0 +1,28 @@
+.profile{
+    height:600px;
+    width: 400px;
+    background-color:#fff;
+    border-radius: 20px;
+    margin-top: 25px;
+    margin-right: 5rem;
+}
+.profile h1{
+    text-align: center;
+}
+.profile img{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.info{
+    text-align: center;
+}
+.info h1 {
+    padding-top: 2rem;
+}
+.info p{
+    padding-top: 1rem;
+}
+.info button{
+    margin-top: 1rem;
+    font-weight: 200px;
+}

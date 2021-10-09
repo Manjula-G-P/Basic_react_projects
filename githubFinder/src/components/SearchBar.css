@@ -1,0 +1,18 @@
+.header{
+    background: linear-gradient(#daacec,#94c997);
+    height:680px;
+}
+.header h1{
+    padding-top: 50px;
+    text-align: center;
+}
+.input-group{
+
+    margin-top: 4rem;
+    justify-content: center;
+
+}
+.form-control{
+    
+    padding:15px
+}
