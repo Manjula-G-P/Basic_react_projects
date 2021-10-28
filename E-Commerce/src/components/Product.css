@@ -1,0 +1,41 @@
+
+.product{
+    display:flex;
+    flex-direction: column;
+    height: 380px;
+    min-width: 100px;
+    margin:10px;
+    background-color: #fff;
+    z-index:1;
+    width:100%;
+    padding:20px;
+    justify-content: flex-end;
+    border-radius: 20px;
+}
+.product:hover{
+    background-color: lightyellow;
+    transform: scale(1.1);
+    cursor: pointer;
+
+
+}
+
+.product_info{
+    height:100px;
+
+}
+.product_info small strong{
+    padding-bottom: 10rem;
+}
+
+.product img{
+    width:100%;
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+.product button{
+    background-color: #f0c14b;
+    border:1px solid;
+    border-color: #a88734;
+}
